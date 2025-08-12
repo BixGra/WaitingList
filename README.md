@@ -30,7 +30,7 @@ WaitingList/
 └── README.md
 ```
 
-To run the project, simply execute the following code
+To run the project, simply execute the following code and head to [this link](http://0.0.0.0:8000/docs)
 ```bash
 docker compose up
 ```
