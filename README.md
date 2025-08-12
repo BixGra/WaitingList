@@ -9,7 +9,7 @@ The project is split into two main parts, the Postgres database and the service 
 ### Structure
 
 ```text
-Billy/
+WaitingList/
 ├── waiting_list_database/
 │   ├── src/
 │   │   ├── data/
