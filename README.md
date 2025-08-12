@@ -30,7 +30,7 @@ WaitingList/
 └── README.md
 ```
 
-To run the project, simply execute the following code or head to [this link](https://sandbix.fr/waiting-list/docs)
+To run the project, simply execute the following code
 ```bash
 docker compose up
 ```
